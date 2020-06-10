@@ -1,0 +1,42 @@
+div {
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(90deg, deepskyblue, lightblue);
+  padding: 10px;
+}
+.mitad {
+  border: solid;
+}
+
+body {
+  text-align: left + center;
+  color: whitesmoke;
+}
+
+h3 {
+  padding: 3px;
+}
+a {
+  font-size: medium;
+  text-align: center;
+  color: whitesmoke;
+}
+ul {
+  list-style-position: inside;
+}
+ol {
+  list-style-position: inside;
+}
+h1 {
+  text-align: left;
+  color: whitesmoke;
+  background: linear-gradient(90deg, gray, deepskyblue, lightblue);
+}
+img {
+  width: 400px;
+  height: 400px;
+  border: solid;
+  margin: 30px;
+  border-radius: 50px 50px 50px 50px;
+  transform: blur(10px);
+  transform: rotate(0deg);
+}
